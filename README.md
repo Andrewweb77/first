@@ -1,2 +1,2 @@
 # first
-Thr first my expirience on the GitHub
+It's first my expirience on the GitHub
